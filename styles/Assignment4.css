@@ -1,0 +1,12 @@
+h1 {font-family: sans-serif; text-align: center;}
+
+h2 {font-family: sans-serif; text-align: center;}
+
+footer {text-align: center;position: relative;padding-top: 300pt;}
+
+section.section1 {background-color: #FFFFCC; visibility: hidden;position: absolute; width: 600px; overflow: scroll;}
+
+section.section2 {background-color: #DCDCDC; visibility: hidden;position: absolute; width: 600px; overflow: scroll;}
+
+#picture1 {padding: 5pt; height: 40%; width: 40%; }
+#picture2 {padding: 5pt; height: 40%; width: 40%; }
